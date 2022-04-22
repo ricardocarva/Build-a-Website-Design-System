@@ -1,0 +1,136 @@
+.color-container {
+    border: 2px solid white;
+    border: 10px 0px;
+    padding: 2px;
+}
+
+.color-panel{
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.color-AliceBlue{
+    background-color: AliceBlue;
+    color: black;
+}
+
+.color-AntiqueWhite{
+    background-color: AntiqueWhite;
+    color: black;
+
+}
+.color-Aqua{
+    background-color: Aqua;
+    color: black;
+
+}
+
+.color-Aquamarine{
+    background-color: Aquamarine;
+    color: black;
+
+}
+
+
+.color-Azure{
+    background-color: Azure;
+    color: black;
+
+}
+
+.color-Beige{
+    background-color: Beige;
+    color: black;
+
+}
+.color-Bisque{
+    background-color: Bisque;
+    color: black;
+
+}
+
+.color-Black{
+    background-color: Black;
+}
+.color-BlanchedAlmond{
+    background-color: BlanchedAlmond;
+    color: black;
+
+}
+
+.color-Blue{
+    background-color: Blue;
+}
+.color-BlueViolet{
+    background-color: BlueViolet;
+}
+
+.color-Brown{
+    background-color: Brown;
+}
+.color-BurlyWood{
+    background-color: BurlyWood;
+}
+
+.color-CadetBlue{
+    background-color: CadetBlue;
+}
+.color-Chartreuse{
+    background-color: Chartreuse;
+    color: black;
+
+}
+
+.color-Chocolate{
+    background-color: Chocolate;
+}
+.color-Coral{
+    background-color: Coral;
+}
+
+.color-CornflowerBlue{
+    background-color: CornflowerBlue;
+    color: black;
+
+}
+.color-Cornsilk{
+    background-color: Cornsilk;
+    color: black;
+
+}
+
+.color-Crimson{
+    background-color: Crimson;
+}
+.color-Cyan{
+    background-color: Cyan;
+    color: black;
+
+}
+
+.color-DarkBlue{
+    background-color: DarkBlue;
+}
+.color-DarkCyan {
+    background-color: DarkCyan ;
+}
+
+.color-DarkGoldenRod{
+    background-color: DarkGoldenRod;
+}
+
+.color-container div p {
+    display: block ;
+    /* min-height: 50px; */
+}
+
+.color-panel p {
+    display: block;
+    margin-block-start: 16px;
+    margin-block-end: 16px;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+}
